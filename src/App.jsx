@@ -7,7 +7,7 @@ function App() {
     <div>
    <nav className="navbar fixed-top navbar-expand-md navbar-dark nav__bg">
     <div className="container">
-      <a className="navbar-brand nav__brand" href="#">山‘s 網頁</a>
+      <a className="navbar-brand nav__brand" href="#">WK1 WEB</a>
       <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
         aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span className="navbar__icon-bar"></span>
@@ -30,7 +30,7 @@ function App() {
   <header className="header">
     <div className="container d-flex flex-column align-items-center">
       <img src="images/chsyu.jpg" alt="" className="header__image" />
-      <h1 className="header__title">山‘<strong>s</strong> 網頁</h1>
+      <h1 className="header__title">WK1 WEB</h1>
       <hr className="divider--light" />
       <p className="header__slogan">APP／WEB／WOT／UX</p>
     </div>
